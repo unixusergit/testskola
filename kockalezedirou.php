@@ -7,7 +7,7 @@ echo "pes oknem.\n"
 echo "Nebude-li pršet,\n";
 echo "nezmoknem,\n";
 echo "nebude-li pršet,\n";
-echo "nezmoknem!";
+echo "nezmoknem!\n";
 
 echo "\n";
 
@@ -17,4 +17,4 @@ echo "zmokneme.\n"
 echo "Půjdem na sluníčko,\n";
 echo "uschneme,\n";
 echo "půjdem na sluníčko,\n";
-echo "uschneme!";
+echo "uschneme!\n";
