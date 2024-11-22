@@ -1,6 +1,10 @@
 #!/usr/bin/env php
 <?php
 
+echo "Kočka leze dírou\n";
+echo "================\n";
+echo "\n";
+
 echo "Kočka leze dírou,\n";
 echo "pes oknem,\n";
 echo "pes oknem.\n";
